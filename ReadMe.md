@@ -36,7 +36,7 @@ $ npm run start:dev
 
 ## Endpoints
 
-All endpoints are included in this [Postman Collection](https://www.twitch.tv/aceu)
+All endpoints are included in this [Postman Collection](https://documenter.getpostman.com/view/4545042/2sB2j1hseA)
 
 ## Multi-Tenancy
 
